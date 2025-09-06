@@ -1,18 +1,3 @@
-import React from "react";
-
-/*
-  Yvaella — Hair Site (Look‑First Mock)
-  -------------------------------------------------------------
-  Goal: match the provided visual — dark luxe theme, warm gold glow,
-  big name header, Meet Your Artist, Hours/Location, Policies,
-  Booking Rules, Thank You + large BOOK NOW, footer contacts.
-
-  How to use:
-  1) Drop this file into a Vite/CRA/Next project.
-  2) Put images in /public/images (hero.jpg, artist.jpg, phone1.jpg, phone2.jpg, icons/*)
-  3) Adjust the CONFIG object below.
-  4) We'll wire links/booking later.
-*/
 
 const CONFIG = {
   brand: {
